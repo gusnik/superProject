@@ -1,9 +1,9 @@
 {
-  "name": "movie-database",
+  "name": "movieData",
   "description": "A starter project for Interaction Programming course Lab5",
   "version": "0.0.0",
-  "homepage": "https://github.com/gusnik/superproject",
-  "license": "MIT",
+  "homepage": "https://github.com/gusnik/superProject",
+  "license": "GNU",
   "private": true,
   "dependencies": {
     "angular": "1.3.x",
@@ -12,8 +12,6 @@
     "bootstrap": "~3.1.1",
     "angular-route": "1.3.x",
     "angular-resource": "1.3.x",
-    "angular-animate": "1.3.x",
-    "angular-cookies": "1.3.x"
-
+    "angular-animate": "1.3.x"
   }
 }
